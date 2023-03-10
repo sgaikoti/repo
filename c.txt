@@ -5,3 +5,5 @@ it is also main local buddy!
 remotely changed on main!
 clear
 right
+clear
+left
