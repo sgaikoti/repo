@@ -5,6 +5,7 @@ dtest;
 why its changed in local!?
 it is also main local buddy!
 remotely changed on main!
+hai
 
 clear
 down
